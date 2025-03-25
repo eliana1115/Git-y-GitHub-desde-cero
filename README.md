@@ -80,7 +80,7 @@ git --version
 
 ## 🌿 Ramas (branches) y merges
 
-![git merge](https://github.com/eliana1115/Git_GitHub_Curso/blob/main/07_Resumen_Avanzado_Git_GitHub/Images/git%20merge.jpg?raw=true)
+![git merge](image/git.merge.jpg)
 
 - Crear nueva rama: `git checkout -b nueva-rama`
 - Moverse entre ramas: `git checkout rama`
