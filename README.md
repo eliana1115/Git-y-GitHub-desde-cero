@@ -103,7 +103,7 @@ código en rama
 
 ## 🔗 Repositorios remotos y GitHub
 
-![git clone](https://github.com/eliana1115/Git_GitHub_Curso/blob/main/07_Resumen_Avanzado_Git_GitHub/Images/git%20clone%20url.jpg?raw=true)
+![git clone](image/git.clone.url.jpg)
 
 ### Comandos clave:
 - `git clone URL` → copiar un repo
@@ -111,7 +111,8 @@ código en rama
 - `git push` / `git pull` → subir y bajar cambios
 - `git fetch` + `git merge` = `git pull`
 
-![git pull](https://github.com/eliana1115/Git_GitHub_Curso/blob/main/07_Resumen_Avanzado_Git_GitHub/Images/git%20pull2.jpg?raw=true)
+![git pull](image/git.pull.jpg)
+![git pull](image/git.pull2.jpg)
 
 ---
 
