@@ -1,4 +1,6 @@
+[![Ir a Fundamentos de Git](https://github.com/eliana1115/Git-y-GitHub-desde-cero/blob/main/image/curso-git-github.png?raw=true)](https://github.com/eliana1115/Git-y-GitHub-des-cero/tree/main/01_Fundamentos_Git)
 # Git-y-GitHub-desde-cero
+
 # 🧩 07 - Resumen avanzado de Git y GitHub
 
 En esta unidad final agrupamos conceptos esenciales y avanzados que complementan tu dominio de Git y GitHub. Recomendado para repasar, profundizar y consolidar tu aprendizaje.
