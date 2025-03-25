@@ -24,7 +24,7 @@ En esta unidad final agrupamos conceptos esenciales y avanzados que complementan
 
 ## 🧰 Instalación de Git
 
-![git add](https://github.com/eliana1115/Git_GitHub_Curso/blob/main/07_Resumen_Avanzado_Git_GitHub/Images/git%20add.jpg?raw=true)
+![git add](image/git.add.jpg)
 
 ### Windows:
 1. Descargar desde https://git-scm.com/downloads
