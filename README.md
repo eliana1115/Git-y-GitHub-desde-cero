@@ -68,7 +68,7 @@ git --version
 
 ## 🔁 Ciclo de vida de los archivos en Git
 
-![git add tracked untracked](https://github.com/eliana1115/Git_GitHub_Curso/blob/main/07_Resumen_Avanzado_Git_GitHub/Images/git%20add2.jpg?raw=true)
+![git add tracked untracked](image/git.add.jpgimage/git.add.jpg) (image/git.add2.jpg)
 
 1. **Untracked** → No rastreados aún por Git
 2. **Unstaged** → Rastreado pero con cambios sin añadir
